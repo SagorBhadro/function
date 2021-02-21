@@ -5,6 +5,15 @@
   margin: 0 auto;
   position: relative;
 }
+#count{
+  background-repeat: no-repeat;
+  box-shadow: 10px,30px rgb(87, 83, 83);
+  border-radius: 5px;
+  text-decoration-color: rgba(128, 167, 23, 0.397);
+  background-color: rgb(182, 201, 193);
+  height: 50px;
+  width: 40px;
+}
 
 .gallery-header {
   display: none;

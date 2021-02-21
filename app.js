@@ -54,6 +54,8 @@ const selectItem = (event, img) => {
   } else {
     sliders.splice(item,1);
   }
+  document.getElementById('count').innerText=sliders.length;
+  
 }
 
 var timer
